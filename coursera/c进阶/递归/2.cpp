@@ -24,4 +24,5 @@ int main(){
     cin>>n;
     cal(n);
     return 0;
+
 }
